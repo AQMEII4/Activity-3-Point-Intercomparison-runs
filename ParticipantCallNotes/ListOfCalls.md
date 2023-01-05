@@ -24,3 +24,4 @@
 - [Participant Call August 30, 2022](./AQMEII4_Activity2_ParticipantCallNotes_20220830.pdf)
 - [Participant Call September 27, 2022](./AQMEII4_Activity2_ParticipantCallNotes_20220927.pdf)
 - [Participant Call November 29, 2022](./AQMEII4_Activity2_ParticipantCallNotes_20221129.pdf)
+- [Participant Call January 3, 2023](./AQMEII4_Activity2_ParticipantCallNotes_20230103.pdf)
